@@ -33,6 +33,10 @@ header {
     color: rgba(255, 255, 255, 0.7);
 }
 
+.log:hover {
+    color: rgba(255, 255, 255);
+}
+
 .menu {
     height: 60px;
     background-image: url(../img/header/footer-dots.png);
